@@ -1,0 +1,5 @@
+Welcome to the user manual!
+
+Please ensure you have the PIL module and the tkinter module installed.
+
+This program is very simple to use. When you start it, you will be presented with four buttons. Each one corresponds to a different computer. Select the computer you would like more information about, and a second window will open. On the first window, you will see an image of the computer, its name, and a back button. Press the back button to return to the previous menu. On the second window, you will see the price, specs, and what the computer includes. You will also be presented with a "purchase" button, which will bring up a "thank you" screen, and another back button to return to the main menu.
